@@ -75,6 +75,8 @@ btn {
 }
 #numberOfPeople {
     font-size: 2rem;
+    padding-left: 10px;
+    margin-right: 10px;
 }
 .final-res {
     display: inline-block;
