@@ -98,6 +98,8 @@ btn {
 }
 #numberOfPeople {
     font-size: 2rem;
+    padding-left: 10px;
+    margin-right: 10px;
 }
 #billTotalInput::placeholder {
     opacity: 1.5;
